@@ -1,7 +1,7 @@
 # Global Life Expectancy Trends: A Multivariate Analysis of Influential Indicators
 
 ## Overview
-This repository is created by Dingning Li, ontains research and analysis exploring the various determinants of life expectancy globally. The project employs a multivariate approach to assess how different socioeconomic, educational, and health-related factors interact to affect longevity.
+This repository is created by Dingning Li, contains research and analysis exploring the various determinants of life expectancy globally. The project employs a multivariate approach to assess how different socioeconomic, educational, and health-related factors interact to affect longevity. The data is obtained from World Health Organization. 
 
 ## File Structure
 
