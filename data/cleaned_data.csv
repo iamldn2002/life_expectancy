@@ -1,0 +1,194 @@
+"country","year","status","life_expectancy","adult_mortality","alcohol","measles","bmi","hiv_aids","schooling"
+"Afghanistan",2013,"Developing",59.9,268,0.01,430,18.1,0.1,9.9
+"Albania",2013,"Developing",77.2,84,4.76,0,56.5,0.1,14.2
+"Algeria",2013,"Developing",75.3,112,0.53,25,57.2,0.1,14.4
+"Angola",2013,"Developing",51.1,355,8.1,8523,22.1,2.3,11.4
+"Antigua and Barbuda",2013,"Developing",76.1,133,8.58,0,46.4,0.2,13.9
+"Argentina",2013,"Developing",76,119,8.28,0,61.6,0.1,17.3
+"Armenia",2013,"Developing",74.4,123,3.79,10,53.3,0.1,12.7
+"Australia",2013,"Developed",82.5,61,9.87,158,65.5,0.1,20.3
+"Austria",2013,"Developed",81.1,68,11.82,0,56.6,0.1,15.7
+"Azerbaijan",2013,"Developing",72.2,121,2.14,164,5.6,0.1,11.9
+"Bahamas",2013,"Developing",74.8,172,9.42,0,63.2,0.1,12.6
+"Bahrain",2013,"Developing",76.7,7,1.65,0,62.2,0.1,14.5
+"Bangladesh",2013,"Developing",71,135,0.01,237,17,0.1,10
+"Barbados",2013,"Developing",75.2,11,8.74,0,53,0.1,15.3
+"Belarus",2013,"Developing",71.7,23,14.66,16,61.1,0.1,15.7
+"Belgium",2013,"Developed",87,77,11.77,39,63,0.1,16.3
+"Belize",2013,"Developing",69.8,18,6.56,0,49.3,0.2,12.9
+"Benin",2013,"Developing",59.5,251,0.01,637,24.6,1.2,10.3
+"Bhutan",2013,"Developing",69.1,219,0.01,0,22.7,0.6,12.6
+"Bolivia (Plurinational State of)",2013,"Developing",71,192,3.78,0,51.2,0.1,13.8
+"Bosnia and Herzegovina",2013,"Developing",77,9,4.12,0,54.7,0.1,14.2
+"Botswana",2013,"Developing",64.2,286,0.01,1,36.8,2.8,12.6
+"Brazil",2013,"Developing",74.7,146,7.24,220,54.5,0.1,14.2
+"Brunei Darussalam",2013,"Developing",77.1,84,0.01,0,39.2,0.1,14.9
+"Bulgaria",2013,"Developed",74.1,14,12.06,14,64.5,0.1,14.4
+"Burkina Faso",2013,"Developing",59,27,4.64,375,18.2,0.7,7.5
+"Burundi",2013,"Developing",58.6,33,0.01,0,17.6,1,10.5
+"Côte d'Ivoire",2013,"Developing",52.3,412,3.15,48,26.8,2.4,NA
+"Cabo Verde",2013,"Developing",72.8,12,0.01,0,29.7,0.2,13.6
+"Cambodia",2013,"Developing",67.8,183,0.01,0,18.2,0.2,10.8
+"Cameroon",2013,"Developing",56.4,364,0.01,760,27.8,4,10.4
+"Canada",2013,"Developing",81.8,67,8.2,83,65.8,0.1,15.9
+"Central African Republic",2013,"Developing",49.9,451,0.01,596,21.6,5.1,7.1
+"Chad",2013,"Developing",52.2,366,0.64,226,18.2,3.1,7.3
+"Chile",2013,"Developing",81,84,7.2,0,62.5,0.1,15.6
+"China",2013,"Developing",75.6,88,5.79,26883,3.9,0.1,12.7
+"Colombia",2013,"Developing",74.4,145,4.41,1,56.4,0.1,13.3
+"Comoros",2013,"Developing",62.9,233,0.01,0,23.2,0.8,10.9
+"Congo",2013,"Developing",63.9,274,0.01,124,26.2,3,11.1
+"Cook Islands",2013,"Developing",NA,NA,0.01,0,82.8,0.1,NA
+"Costa Rica",2013,"Developing",79.4,96,3.42,0,58.5,0.1,13.7
+"Croatia",2013,"Developed",77.7,97,12.39,0,62.5,0.1,14.9
+"Cuba",2013,"Developing",78.7,96,4.18,0,59.9,0.1,14.7
+"Cyprus",2013,"Developed",81,54,9.04,0,59.2,0.1,13.8
+"Czechia",2013,"Developed",78.2,9,12.45,15,65.1,0.1,NA
+"Democratic People's Republic of Korea",2013,"Developing",71,146,3.35,0,31.8,0.1,NA
+"Democratic Republic of the Congo",2013,"Developing",58.8,272,0.01,88381,2.6,1.2,NA
+"Denmark",2013,"Developed",81,75,9.5,17,58.1,0.1,18.7
+"Djibouti",2013,"Developing",62.7,256,0.53,28,33.8,2.1,6.3
+"Dominica",2013,"Developing",NA,NA,0.01,0,58.4,0.1,12.7
+"Dominican Republic",2013,"Developing",73.4,157,5.93,0,56.8,0.3,13.2
+"Ecuador",2013,"Developing",76,121,3.77,0,52.8,0.1,13.4
+"Egypt",2013,"Developing",79,159,0.21,405,59.4,0.1,12.8
+"El Salvador",2013,"Developing",73,184,2.42,0,54.7,0.2,13.2
+"Equatorial Guinea",2013,"Developing",57.4,327,10.72,321,23.5,5.7,9.2
+"Eritrea",2013,"Developing",64,266,0.01,45,17.5,0.5,5
+"Estonia",2013,"Developing",76.9,127,0.01,2,59,0.1,16.5
+"Ethiopia",2013,"Developing",63.7,237,1.86,5253,16.8,0.9,8.4
+"Fiji",2013,"Developing",69.6,192,0.01,0,61.1,0.1,15
+"Finland",2013,"Developing",87,79,8.97,2,61.4,0.1,17
+"France",2013,"Developing",82,81,11.1,272,61.6,0.1,16.2
+"Gabon",2013,"Developing",64.6,255,8.86,122,35.2,3.7,12.5
+"Gambia",2013,"Developing",66,266,0.01,0,26,1.6,8.9
+"Georgia",2013,"Developing",74.5,128,5.91,7872,54.4,0.1,13.5
+"Germany",2013,"Developed",86,71,10.94,1771,61.4,0.1,16.9
+"Ghana",2013,"Developing",61.9,254,0.01,319,27.3,0.9,11.5
+"Greece",2013,"Developing",86,74,7.46,3,65.4,0.1,17.1
+"Grenada",2013,"Developing",73.3,144,8.25,0,46.5,0.1,15.8
+"Guatemala",2013,"Developing",71.4,189,1.93,0,49.3,0.4,10.7
+"Guinea",2013,"Developing",58.8,284,0.01,53,22.2,1,8.5
+"Guinea-Bissau",2013,"Developing",58.1,279,0.01,0,25,4.5,9.1
+"Guyana",2013,"Developing",65.9,218,7.56,0,45,0.3,10.3
+"Haiti",2013,"Developing",62.7,253,5.68,0,47.7,0.5,9.1
+"Honduras",2013,"Developing",74.3,15,3.11,0,49.3,0.4,11.6
+"Hungary",2013,"Developed",75.5,139,10.88,1,63.6,0.1,15.4
+"Iceland",2013,"Developed",82.4,5,7.31,0,6.2,0.1,19
+"India",2013,"Developing",67.6,187,3.11,13822,17.5,0.2,11.5
+"Indonesia",2013,"Developing",68.7,181,0.09,8419,25.6,0.3,12.9
+"Iran (Islamic Republic of)",2013,"Developing",75.3,83,0.01,189,57.2,0.1,15
+"Iraq",2013,"Developing",69.5,17,0.01,669,57.8,0.1,10.3
+"Ireland",2013,"Developed",81,67,10.49,51,61.3,0.1,18.6
+"Israel",2013,"Developing",82.1,61,2.69,50,64.2,0.1,15.9
+"Italy",2013,"Developed",82.3,58,7.35,0,62.6,0.1,16.5
+"Jamaica",2013,"Developing",75.6,136,3.79,0,52.7,0.6,12.8
+"Japan",2013,"Developed",83.5,56,7.55,229,28.2,0.1,15.3
+"Jordan",2013,"Developing",73.9,114,0.4,120,64,0.1,13.1
+"Kazakhstan",2013,"Developing",69.5,28,6.48,73,51.4,0.1,15
+"Kenya",2013,"Developing",62.6,258,1.84,190,2.7,3,11.1
+"Kiribati",2013,"Developing",65.8,22,0.01,0,76.7,0.1,11.9
+"Kuwait",2013,"Developing",74.5,83,0.01,62,7.2,0.1,13.1
+"Kyrgyzstan",2013,"Developing",77,174,0.01,1,43,0.1,12.5
+"Lao People's Democratic Republic",2013,"Developing",64.9,23,0.01,71,2.1,0.3,10.4
+"Latvia",2013,"Developed",74.1,161,10.37,0,6.2,0.1,15.4
+"Lebanon",2013,"Developing",74.9,97,1.29,1761,64.9,0.1,13.3
+"Lesotho",2013,"Developing",52.1,518,0.01,516,31.4,9.6,11.1
+"Liberia",2013,"Developing",61.1,258,0.01,0,26.1,1.1,9.8
+"Libya",2013,"Developing",72.9,134,0.01,0,62.8,0.1,13.4
+"Lithuania",2013,"Developed",73,178,15.04,35,61.4,0.1,16.4
+"Luxembourg",2013,"Developed",81.4,68,11.02,0,6.5,0.1,13.9
+"Madagascar",2013,"Developing",64.7,23,0.87,6,19.5,0.4,10.3
+"Malawi",2013,"Developing",56.7,394,0.01,1,18.8,6.3,10.7
+"Malaysia",2013,"Developing",74.6,128,0.53,195,38.5,0.1,12.9
+"Maldives",2013,"Developing",77.9,64,0.01,0,25.1,0.1,12.4
+"Mali",2013,"Developing",57.3,275,0.01,221,22.5,1.6,8
+"Malta",2013,"Developed",81.1,57,8.58,0,68.8,0.1,14.2
+"Marshall Islands",2013,"Developing",NA,NA,0.01,0,81.6,0.1,0
+"Mauritania",2013,"Developing",62.7,28,0.01,62,29.4,1.1,8.2
+"Mauritius",2013,"Developing",74.1,147,0.01,0,32.3,0.1,14.7
+"Mexico",2013,"Developing",76.6,12,5.23,0,62.1,0.1,12.9
+"Micronesia (Federated States of)",2013,"Developing",69.2,166,1.67,0,68.1,0.1,11.7
+"Monaco",2013,"Developing",NA,NA,0.01,0,NA,0.1,NA
+"Mongolia",2013,"Developing",68.1,227,0.01,0,5.4,0.1,14.7
+"Montenegro",2013,"Developing",75.8,19,0.01,0,6.7,0.1,15.1
+"Morocco",2013,"Developing",73.9,97,0.45,92,56.5,0.1,12.1
+"Mozambique",2013,"Developing",55.3,46,1.16,8,21.8,5.1,9.1
+"Myanmar",2013,"Developing",66.2,22,0.7,1010,22.1,0.4,9.1
+"Namibia",2013,"Developing",66.1,232,0.01,1028,34.1,2.5,11.6
+"Nauru",2013,"Developing",NA,NA,0.01,0,87.3,0.1,9.6
+"Nepal",2013,"Developing",69.3,162,0.27,1861,18,0.1,12.3
+"Netherlands",2013,"Developed",81.4,6,8.68,2632,61,0.1,18.1
+"New Zealand",2013,"Developed",81.3,69,9.18,8,66.4,0.1,19.3
+"Nicaragua",2013,"Developing",73.9,157,3.58,0,52.4,0.1,11.5
+"Niger",2013,"Developing",69,227,0.01,1224,18.5,0.6,5.3
+"Nigeria",2013,"Developing",53.2,367,8.3,52852,24.1,3.9,9.8
+"Niue",2013,"Developing",NA,NA,0.01,0,77.3,0.1,NA
+"Norway",2013,"Developed",81.5,62,6.21,8,6.3,0.1,17.5
+"Oman",2013,"Developing",76.2,12,0.46,0,52.8,0.1,13.7
+"Pakistan",2013,"Developing",66,163,0.04,8749,23.9,0.1,7.7
+"Palau",2013,"Developing",NA,NA,NA,0,83.3,0.1,14.2
+"Panama",2013,"Developing",77.5,118,6.89,0,56.3,0.1,12.9
+"Papua New Guinea",2013,"Developing",62.4,281,0.01,12,47.2,0.8,10
+"Paraguay",2013,"Developing",73.8,148,5.03,0,48.6,0.2,12.3
+"Peru",2013,"Developing",75.3,125,5.38,0,54.2,0.1,13.4
+"Philippines",2013,"Developing",68.1,219,4.61,2920,24.3,0.1,11.7
+"Poland",2013,"Developed",77.1,12,11.63,84,6.4,0.1,15.4
+"Portugal",2013,"Developed",86,79,10,1,6.2,0.1,16.3
+"Qatar",2013,"Developing",77.9,7,1.2,73,67.7,0.1,13.4
+"Republic of Korea",2013,"Developing",81.7,68,9.33,107,3.8,0.1,NA
+"Republic of Moldova",2013,"Developing",71.7,163,10.49,27,52.1,0.1,NA
+"Romania",2013,"Developed",74.6,138,9.59,1159,59.2,0.1,14.7
+"Russian Federation",2013,"Developing",70,229,10.58,2339,59.3,0.2,14.6
+"Rwanda",2013,"Developing",65.2,233,0.01,17,2.1,0.5,10.8
+"Saint Kitts and Nevis",2013,"Developing",NA,NA,8.54,0,5.2,0.1,13.4
+"Saint Lucia",2013,"Developing",74.8,141,9.73,0,45.9,0.1,13.1
+"Saint Vincent and the Grenadines",2013,"Developing",72.7,161,7.07,0,52.2,0.1,13.3
+"Samoa",2013,"Developing",73.6,131,0.01,0,73.8,0.1,12.9
+"San Marino",2013,"Developing",NA,NA,0.01,0,NA,0.1,15.1
+"Sao Tome and Principe",2013,"Developing",67.1,192,0.01,0,29.3,0.2,11
+"Saudi Arabia",2013,"Developing",74.3,89,0.09,1164,66.4,0.1,15.2
+"Senegal",2013,"Developing",66,196,0.26,17,23.2,0.3,8.7
+"Serbia",2013,"Developing",75.3,122,9.16,1,58.9,0.1,14.1
+"Seychelles",2013,"Developing",72.9,172,0.01,0,35.5,0.1,13.5
+"Sierra Leone",2013,"Developing",54,47,0.01,15,23.3,0.8,9.3
+"Singapore",2013,"Developed",82.7,57,1.83,138,32.7,0.1,15.4
+"Slovakia",2013,"Developed",76.1,114,9.89,0,57.8,0.1,15
+"Slovenia",2013,"Developed",85,78,9.53,1,58.9,0.1,16.8
+"Solomon Islands",2013,"Developing",68.8,182,0.01,0,48.9,0.1,9.5
+"Somalia",2013,"Developing",54.2,318,0.01,3173,23.3,0.8,NA
+"South Africa",2013,"Developing",69,371,7.34,25,49.5,4.5,12.8
+"South Sudan",2013,"Developing",56.4,345,NA,525,NA,3.6,4.9
+"Spain",2013,"Developed",82.4,6,9.25,131,65.4,0.1,17.5
+"Sri Lanka",2013,"Developing",74.6,142,2.56,2107,21.9,0.1,13.8
+"Sudan",2013,"Developing",63.5,232,0.01,2813,NA,0.3,7
+"Suriname",2013,"Developing",71.2,179,6.02,0,57,0.4,12.7
+"Swaziland",2013,"Developing",57.6,393,0.01,0,31.2,9.8,11.4
+"Sweden",2013,"Developed",81.9,57,7.3,51,58.5,0.1,15.8
+"Switzerland",2013,"Developed",83,52,9.73,175,56.6,0.1,15.8
+"Syrian Arab Republic",2013,"Developing",63.6,37,0.01,740,55.2,0.1,13
+"Tajikistan",2013,"Developing",69.3,163,0.01,1,39,0.2,11.2
+"Thailand",2013,"Developing",74.5,153,6.5,2641,31.3,0.1,13.6
+"The former Yugoslav republic of Macedonia",2013,"Developing",75.3,14,1.03,4,59.1,0.1,12.9
+"Timor-Leste",2013,"Developing",67.7,158,0.01,4,16.6,0.1,12.5
+"Togo",2013,"Developing",59.4,287,0.01,564,23.1,1.5,12
+"Tonga",2013,"Developing",73.2,137,0.01,0,74.3,0.1,14.3
+"Trinidad and Tobago",2013,"Developing",71,172,6.71,0,45,0.3,12.7
+"Tunisia",2013,"Developing",74.9,13,1.29,16,59.3,0.1,14.7
+"Turkey",2013,"Developing",75.2,19,1.41,7405,64.5,0.1,14.4
+"Turkmenistan",2013,"Developing",65.4,228,2.93,0,46.7,0.1,10.7
+"Tuvalu",2013,"Developing",NA,NA,0.01,0,79.3,0.1,0
+"Uganda",2013,"Developing",67,325,0.01,7878,17.6,4,10
+"Ukraine",2013,"Developing",71,198,8.44,0,6.1,0.2,15.2
+"United Arab Emirates",2013,"Developing",76.7,78,1.82,0,6.5,0.1,13.3
+"United Kingdom of Great Britain and Northern Ireland",2013,"Developed",87,72,10.32,1919,65.4,0.1,NA
+"United Republic of Tanzania",2013,"Developing",59.7,323,4.2,185,22.5,2.1,NA
+"United States of America",2013,"Developed",78.9,16,8.82,187,68.6,0.1,NA
+"Uruguay",2013,"Developing",76.8,117,5.82,0,62.9,0.1,15.5
+"Uzbekistan",2013,"Developing",69.1,185,0.01,0,43,0.1,12
+"Vanuatu",2013,"Developing",71.6,135,0.01,0,51.7,0.1,10.8
+"Venezuela (Bolivarian Republic of)",2013,"Developing",73.8,159,6.71,0,61,0.1,14.2
+"Viet Nam",2013,"Developing",75.7,129,4,1123,16,0.1,12.3
+"Yemen",2013,"Developing",65.4,226,0.04,400,39.6,0.1,9
+"Zambia",2013,"Developing",63,328,2.41,35,22.3,4.8,12.5
+"Zimbabwe",2013,"Developing",58,399,6.39,0,3.8,6.8,10.4
